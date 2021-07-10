@@ -1,0 +1,3 @@
+kendaraan_kecil
+kendaraan_besar
+w
